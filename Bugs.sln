@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bugs", "WindowsGame1\WindowsGame1\Bugs.csproj", "{92E642B5-C05A-42DB-A9C3-8E927890F76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bugs2Content", "WindowsGame1\WindowsGame1Content\Bugs2Content.contentproj", "{9FD8BE04-EF0D-4058-A58A-E7DC4DA00022}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{ED48BBAF-6155-410F-B4A7-F2AE3A1FBAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E642B5-C05A-42DB-A9C3-8E927890F76A}.Debug|x86.ActiveCfg = Debug|x86
+		{92E642B5-C05A-42DB-A9C3-8E927890F76A}.Debug|x86.Build.0 = Debug|x86
+		{92E642B5-C05A-42DB-A9C3-8E927890F76A}.Release|x86.ActiveCfg = Release|x86
+		{92E642B5-C05A-42DB-A9C3-8E927890F76A}.Release|x86.Build.0 = Release|x86
+		{9FD8BE04-EF0D-4058-A58A-E7DC4DA00022}.Debug|x86.ActiveCfg = Debug|x86
+		{9FD8BE04-EF0D-4058-A58A-E7DC4DA00022}.Release|x86.ActiveCfg = Release|x86
+		{ED48BBAF-6155-410F-B4A7-F2AE3A1FBAD3}.Debug|x86.ActiveCfg = Debug
+		{ED48BBAF-6155-410F-B4A7-F2AE3A1FBAD3}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
