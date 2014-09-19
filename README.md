@@ -3,6 +3,8 @@ BugsInSpaceGame
 
 Very very simple Shooter game created with XNA. 
 
+See screenshots here: https://github.com/optiklab/BugsInSpaceGame/wiki
+
 If you want just to play please get the working example from my pet-project-website:
 https://googledrive.com/host/0B4Q3U97fHTqINzFfajF6U21tQTQ/files/BugsInTheSpace_Setup.exe
 
