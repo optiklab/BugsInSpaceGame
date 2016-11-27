@@ -1,11 +1,8 @@
 BugsInSpaceGame
 ===============
 
-Very very simple Shooter game created with XNA. 
+Simple Shooter styled for old 8-bit games created with XNA.
 
-See screenshots here: https://github.com/optiklab/BugsInSpaceGame/wiki
+![1](https://optiklab.github.io/blog/img/Bugs1.png)
 
-If you want just to play please get the working example from my pet-project-website:
-https://googledrive.com/host/0B4Q3U97fHTqINzFfajF6U21tQTQ/files/BugsInTheSpace_Setup.exe
-
-Before you start to play you will need to install XNA Redistributable package from here https://googledrive.com/host/0B4Q3U97fHTqINzFfajF6U21tQTQ/files/xnafx40_redist.msi
+![2](https://optiklab.github.io/blog/img/Bugs4.png)
